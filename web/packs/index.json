@@ -1,7 +1,8 @@
 {
   "packs": [
     "emotes.json",
-    "fernglas.json"
+    "fernglas.json",
+    "Recknagel.json"
   ],
   "homeserver_url": "https://matrix.wagnersnetz.de"
 }
