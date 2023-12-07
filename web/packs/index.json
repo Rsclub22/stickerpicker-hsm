@@ -12,7 +12,8 @@
     "scalar-sheltie.json",
     "scalar-smilies.json",
     "scalar-stakey.json",
-    "scalar-stickman.json"
+    "scalar-stickman.json",
+    "Pohl.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
